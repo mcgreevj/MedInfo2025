@@ -1,1 +1,3 @@
 # MedInfo2025
+
+This is a repository that contains supplemental materials supporting my presentation at MedInfo2025 in August 2025 in Taipei, Taiwan. I developed an expert system that can guide clinicians about the use of intravenous fluid (IVF) for six common conditions during normal times and during times of shortage, such as the United States experienced in 2024 after Hurricane Helene seriously damaged a facility that produced 60% of the IVF in the country. It is a prototype meant to demonstrate how expert systems can be rapidly developed and deployed in response to medical supply shortages, a problem that will become increasingly common around the globe due to climate change. 
